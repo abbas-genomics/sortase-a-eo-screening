@@ -1,0 +1,101 @@
+input_name,matched_name,cid,MolecularFormula,MolecularWeight,IUPACName,XLogP,TPSA,HBondDonorCount,HBondAcceptorCount,RotatableBondCount,IsomericSMILES,CanonicalSMILES,InChIKey
+Thymol,Thymol,6989,C10H14O,150.22,5-methyl-2-propan-2-ylphenol,3.3,20.2,1,1,1,CC1=CC(=C(C=C1)C(C)C)O,CC1=CC(=C(C=C1)C(C)C)O,MGSRCZKZVOBKFT-UHFFFAOYSA-N
+Carvacrol,Carvacrol,10364,C10H14O,150.22,2-methyl-5-propan-2-ylphenol,3.1,20.2,1,1,1,CC1=C(C=C(C=C1)C(C)C)O,CC1=C(C=C(C=C1)C(C)C)O,RECUKUPTGUEGMW-UHFFFAOYSA-N
+Eugenol,Eugenol,3314,C10H12O2,164.20,2-methoxy-4-prop-2-enylphenol,2,29.5,1,2,3,COC1=C(C=CC(=C1)CC=C)O,COC1=C(C=CC(=C1)CC=C)O,RRAFCDWBNXTKKO-UHFFFAOYSA-N
+trans-Cinnamaldehyde,trans-Cinnamaldehyde,637511,C9H8O,132.16,(E)-3-phenylprop-2-enal,1.9,17.1,0,1,2,C1=CC=C(C=C1)/C=C/C=O,C1=CC=C(C=C1)C=CC=O,KJPRLNWUNMBNBZ-QPJJXVBHSA-N
+Cinnamyl alcohol,Cinnamyl alcohol,5315892,C9H10O,134.17,(E)-3-phenylprop-2-en-1-ol,1.9,20.2,1,1,2,C1=CC=C(C=C1)/C=C/CO,C1=CC=C(C=C1)C=CCO,OOCCDEMITAIZTP-QPJJXVBHSA-N
+Cinnamic acid,Cinnamic acid,444539,C9H8O2,148.16,(E)-3-phenylprop-2-enoic acid,2.1,37.3,1,2,2,C1=CC=C(C=C1)/C=C/C(=O)O,C1=CC=C(C=C1)C=CC(=O)O,WBYWAXJHAXSJNI-VOTSOKGWSA-N
+Methyl eugenol,Methyl eugenol,7127,C11H14O2,178.23,"1,2-dimethoxy-4-prop-2-enylbenzene",2.5,18.5,0,2,4,COC1=C(C=C(C=C1)CC=C)OC,COC1=C(C=C(C=C1)CC=C)OC,ZYEMGPIYFIJGTP-UHFFFAOYSA-N
+Isoeugenol,Isoeugenol,853433,C10H12O2,164.20,2-methoxy-4-[(E)-prop-1-enyl]phenol,2.6,29.5,1,2,2,C/C=C/C1=CC(=C(C=C1)O)OC,CC=CC1=CC(=C(C=C1)O)OC,BJIOGJUNALELMI-ONEGZZNKSA-N
+Estragole,Estragole,8815,C10H12O,148.20,1-methoxy-4-prop-2-enylbenzene,3.4,9.2,0,1,3,COC1=CC=C(C=C1)CC=C,COC1=CC=C(C=C1)CC=C,ZFMSMUAANRJZFM-UHFFFAOYSA-N
+trans-Anethole,trans-Anethole,637563,C10H12O,148.20,1-methoxy-4-[(E)-prop-1-enyl]benzene,3.3,9.2,0,1,2,C/C=C/C1=CC=C(C=C1)OC,CC=CC1=CC=C(C=C1)OC,RUVINXPYWBROJD-ONEGZZNKSA-N
+Chavicol,Chavicol,68148,C9H10O,134.17,4-prop-2-enylphenol,2.9,20.2,1,1,2,C=CCC1=CC=C(C=C1)O,C=CCC1=CC=C(C=C1)O,RGIBXDHONMXTLI-UHFFFAOYSA-N
+Safrole,Safrole,5144,C10H10O2,162.18,"5-prop-2-enyl-1,3-benzodioxole",3,18.5,0,2,2,C=CCC1=CC2=C(C=C1)OCO2,C=CCC1=CC2=C(C=C1)OCO2,ZMQAAUBTXCXRIC-UHFFFAOYSA-N
+Methyl cinnamate,Methyl cinnamate,637520,C10H10O2,162.18,methyl (E)-3-phenylprop-2-enoate,2.6,26.3,0,2,3,COC(=O)/C=C/C1=CC=CC=C1,COC(=O)C=CC1=CC=CC=C1,CCRCUPLGCSFEDV-BQYQJAHWSA-N
+Ethyl cinnamate,Ethyl cinnamate,637758,C11H12O2,176.21,ethyl (E)-3-phenylprop-2-enoate,3,26.3,0,2,4,CCOC(=O)/C=C/C1=CC=CC=C1,CCOC(=O)C=CC1=CC=CC=C1,KBEBGUQPQBELIU-CMDGGOBGSA-N
+Limonene,Limonene,22311,C10H16,136.23,1-methyl-4-prop-1-en-2-ylcyclohexene,3.4,0,0,0,1,CC1=CCC(CC1)C(=C)C,CC1=CCC(CC1)C(=C)C,XMGQYMWWDOXHJM-UHFFFAOYSA-N
+alpha-Pinene,alpha-Pinene,6654,C10H16,136.23,"2,6,6-trimethylbicyclo[3.1.1]hept-2-ene",2.8,0,0,0,0,CC1=CCC2CC1C2(C)C,CC1=CCC2CC1C2(C)C,GRWFGVWFFZKLTI-UHFFFAOYSA-N
+beta-Pinene,beta-Pinene,14896,C10H16,136.23,"6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptane",3.1,0,0,0,0,CC1(C2CCC(=C)C1C2)C,CC1(C2CCC(=C)C1C2)C,WTARULDDTDQWMU-UHFFFAOYSA-N
+Sabinene,Sabinene,18818,C10H16,136.23,4-methylidene-1-propan-2-ylbicyclo[3.1.0]hexane,3.1,0,0,0,1,CC(C)C12CCC(=C)C1C2,CC(C)C12CCC(=C)C1C2,NDVASEGYNIMXJL-UHFFFAOYSA-N
+Camphene,Camphene,6616,C10H16,136.23,"2,2-dimethyl-3-methylidenebicyclo[2.2.1]heptane",3.3,0,0,0,0,CC1(C2CCC(C2)C1=C)C,CC1(C2CCC(C2)C1=C)C,CRPUJAZIXJMDBK-UHFFFAOYSA-N
+beta-Myrcene,beta-Myrcene,31253,C10H16,136.23,"7-methyl-3-methylideneocta-1,6-diene",4.3,0,0,0,4,CC(=CCCC(=C)C=C)C,CC(=CCCC(=C)C=C)C,UAHWPYUMFXYFJY-UHFFFAOYSA-N
+alpha-Terpinene,alpha-Terpinene,7462,C10H16,136.23,"1-methyl-4-propan-2-ylcyclohexa-1,3-diene",2.8,0,0,0,1,CC1=CC=C(CC1)C(C)C,CC1=CC=C(CC1)C(C)C,YHQGMYUVUMAZJR-UHFFFAOYSA-N
+gamma-Terpinene,gamma-Terpinene,7461,C10H16,136.23,"1-methyl-4-propan-2-ylcyclohexa-1,4-diene",2.8,0,0,0,1,CC1=CCC(=CC1)C(C)C,CC1=CCC(=CC1)C(C)C,YKFLAYDHMOASIY-UHFFFAOYSA-N
+p-Cymene,p-Cymene,7463,C10H14,134.22,1-methyl-4-propan-2-ylbenzene,4.1,0,0,0,1,CC1=CC=C(C=C1)C(C)C,CC1=CC=C(C=C1)C(C)C,HFPZCAJZSCWRBC-UHFFFAOYSA-N
+Terpinolene,Terpinolene,11463,C10H16,136.23,1-methyl-4-propan-2-ylidenecyclohexene,2.8,0,0,0,0,CC1=CCC(=C(C)C)CC1,CC1=CCC(=C(C)C)CC1,MOYAFQVGZZPNRA-UHFFFAOYSA-N
+delta-3-Carene,delta-3-Carene,26049,C10H16,136.23,"3,7,7-trimethylbicyclo[4.1.0]hept-3-ene",2.8,0,0,0,0,CC1=CCC2C(C1)C2(C)C,CC1=CCC2C(C1)C2(C)C,BQOFWKZOCNGFEC-UHFFFAOYSA-N
+alpha-Phellandrene,alpha-Phellandrene,7460,C10H16,136.23,"2-methyl-5-propan-2-ylcyclohexa-1,3-diene",3.2,0,0,0,1,CC1=CCC(C=C1)C(C)C,CC1=CCC(C=C1)C(C)C,OGLDWXZKYODSOB-UHFFFAOYSA-N
+beta-Ocimene,beta-Ocimene,18756,C10H16,136.23,"3,7-dimethylocta-1,3,6-triene",4.3,0,0,0,3,CC(=CCC=C(C)C=C)C,CC(=CCC=C(C)C=C)C,IHPKGUQCSIINRJ-UHFFFAOYSA-N
+Linalool,Linalool,6549,C10H18O,154.25,"3,7-dimethylocta-1,6-dien-3-ol",2.7,20.2,1,1,4,CC(=CCCC(C)(C=C)O)C,CC(=CCCC(C)(C=C)O)C,CDOSHBSSFJOMGT-UHFFFAOYSA-N
+Geraniol,Geraniol,637566,C10H18O,154.25,"(2E)-3,7-dimethylocta-2,6-dien-1-ol",2.9,20.2,1,1,4,CC(=CCC/C(=C/CO)/C)C,CC(=CCCC(=CCO)C)C,GLZPCOQZEFWAFX-JXMROGBWSA-N
+Citronellol,Citronellol,8842,C10H20O,156.26,"3,7-dimethyloct-6-en-1-ol",3.2,20.2,1,1,5,CC(CCC=C(C)C)CCO,CC(CCC=C(C)C)CCO,QMVPMAAFGQKVCJ-UHFFFAOYSA-N
+alpha-Terpineol,alpha-Terpineol,17100,C10H18O,154.25,2-(4-methylcyclohex-3-en-1-yl)propan-2-ol,1.8,20.2,1,1,1,CC1=CCC(CC1)C(C)(C)O,CC1=CCC(CC1)C(C)(C)O,WUOACPNHFRMFPN-UHFFFAOYSA-N
+Terpinen-4-ol,Terpinen-4-ol,11230,C10H18O,154.25,4-methyl-1-propan-2-ylcyclohex-3-en-1-ol,2.2,20.2,1,1,1,CC1=CCC(CC1)(C(C)C)O,CC1=CCC(CC1)(C(C)C)O,WRYLYDPHFGVWKC-UHFFFAOYSA-N
+Menthol,Menthol,1254,C10H20O,156.26,5-methyl-2-propan-2-ylcyclohexan-1-ol,3,20.2,1,1,1,CC1CCC(C(C1)O)C(C)C,CC1CCC(C(C1)O)C(C)C,NOOLISFMXDJSKH-UHFFFAOYSA-N
+Borneol,Borneol,64685,C10H18O,154.25,"1,7,7-trimethylbicyclo[2.2.1]heptan-2-ol",2.7,20.2,1,1,0,CC1(C2CCC1(C(C2)O)C)C,CC1(C2CCC1(C(C2)O)C)C,DTGKSKDOIYIVQL-UHFFFAOYSA-N
+Isoborneol,Isoborneol,6321405,C10H18O,154.25,"(1R,2R,4R)-1,7,7-trimethylbicyclo[2.2.1]heptan-2-ol",2.7,20.2,1,1,0,C[C@@]12CC[C@@H](C1(C)C)C[C@H]2O,CC1(C2CCC1(C(C2)O)C)C,DTGKSKDOIYIVQL-MRTMQBJTSA-N
+Nerol,Nerol,643820,C10H18O,154.25,"(2Z)-3,7-dimethylocta-2,6-dien-1-ol",2.9,20.2,1,1,4,CC(=CCC/C(=C\CO)/C)C,CC(=CCCC(=CCO)C)C,GLZPCOQZEFWAFX-YFHOEESVSA-N
+Lavandulol,Lavandulol,5464156,C10H18O,154.25,(2R)-5-methyl-2-prop-1-en-2-ylhex-4-en-1-ol,3,20.2,1,1,4,CC(=CC[C@@H](CO)C(=C)C)C,CC(=CCC(CO)C(=C)C)C,CZVXBFUKBZRMKR-JTQLQIEISA-N
+Cuminyl alcohol,Cuminyl alcohol,325,C10H14O,150.22,(4-propan-2-ylphenyl)methanol,2.3,20.2,1,1,2,CC(C)C1=CC=C(C=C1)CO,CC(C)C1=CC=C(C=C1)CO,OIGWAXDAPKFNCQ-UHFFFAOYSA-N
+Fenchol,Fenchol,15406,C10H18O,154.25,"1,3,3-trimethylbicyclo[2.2.1]heptan-2-ol",2.5,20.2,1,1,0,CC1(C2CCC(C2)(C1O)C)C,CC1(C2CCC(C2)(C1O)C)C,IAIHUHQCLTYTSF-UHFFFAOYSA-N
+Perillyl alcohol,Perillyl alcohol,10819,C10H16O,152.23,(4-prop-1-en-2-ylcyclohexen-1-yl)methanol,2.1,20.2,1,1,2,CC(=C)C1CCC(=CC1)CO,CC(=C)C1CCC(=CC1)CO,NDTYTMIUWGWIMO-UHFFFAOYSA-N
+Verbenol,Verbenol,61126,C10H16O,152.23,"4,6,6-trimethylbicyclo[3.1.1]hept-3-en-2-ol",1.6,20.2,1,1,0,CC1=CC(C2CC1C2(C)C)O,CC1=CC(C2CC1C2(C)C)O,WONIGEXYPVIKFS-UHFFFAOYSA-N
+Citral,Citral,638011,C10H16O,152.23,"(2E)-3,7-dimethylocta-2,6-dienal",3,17.1,0,1,4,CC(=CCC/C(=C/C=O)/C)C,CC(=CCCC(=CC=O)C)C,WTEVQBCEXWBHNA-JXMROGBWSA-N
+Geranial,Geranial,638011,C10H16O,152.23,"(2E)-3,7-dimethylocta-2,6-dienal",3,17.1,0,1,4,CC(=CCC/C(=C/C=O)/C)C,CC(=CCCC(=CC=O)C)C,WTEVQBCEXWBHNA-JXMROGBWSA-N
+Neral,Neral,643779,C10H16O,152.23,"(2Z)-3,7-dimethylocta-2,6-dienal",3,17.1,0,1,4,CC(=CCC/C(=C\C=O)/C)C,CC(=CCCC(=CC=O)C)C,WTEVQBCEXWBHNA-YFHOEESVSA-N
+Citronellal,Citronellal,7794,C10H18O,154.25,"3,7-dimethyloct-6-enal",3,17.1,0,1,5,CC(CCC=C(C)C)CC=O,CC(CCC=C(C)C)CC=O,NEHNMFOYXAPHSD-UHFFFAOYSA-N
+Perillaldehyde,Perillaldehyde,16441,C10H14O,150.22,4-prop-1-en-2-ylcyclohexene-1-carbaldehyde,2.6,17.1,0,1,2,CC(=C)C1CCC(=CC1)C=O,CC(=C)C1CCC(=CC1)C=O,RUMOYJJNUMEFDD-UHFFFAOYSA-N
+Cuminaldehyde,Cuminaldehyde,326,C10H12O,148.20,4-propan-2-ylbenzaldehyde,2.7,17.1,0,1,2,CC(C)C1=CC=C(C=C1)C=O,CC(C)C1=CC=C(C=C1)C=O,WTWBUQJHJGUZCY-UHFFFAOYSA-N
+Menthone,Menthone,26447,C10H18O,154.25,"trans-(2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-one",2.7,17.1,0,1,1,C[C@@H]1CC[C@H](C(=O)C1)C(C)C,CC1CCC(C(=O)C1)C(C)C,NFLGAXVYCFJBMK-BDAKNGLRSA-N
+Isomenthone,Isomenthone,6432469,C10H18O,154.25,"cis-(2S,5S)-5-methyl-2-propan-2-ylcyclohexan-1-one",2.7,17.1,0,1,1,C[C@H]1CC[C@H](C(=O)C1)C(C)C,CC1CCC(C(=O)C1)C(C)C,NFLGAXVYCFJBMK-IUCAKERBSA-N
+Camphor,Camphor,2537,C10H16O,152.23,"1,7,7-trimethylbicyclo[2.2.1]heptan-2-one",2.2,17.1,0,1,0,CC1(C2CCC1(C(=O)C2)C)C,CC1(C2CCC1(C(=O)C2)C)C,DSSYKIVIOFKYAU-UHFFFAOYSA-N
+Carvone,Carvone,7439,C10H14O,150.22,2-methyl-5-prop-1-en-2-ylcyclohex-2-en-1-one,2.4,17.1,0,1,1,CC1=CCC(CC1=O)C(=C)C,CC1=CCC(CC1=O)C(=C)C,ULDHMXUKGWMISQ-UHFFFAOYSA-N
+Pulegone,Pulegone,442495,C10H16O,152.23,(5R)-5-methyl-2-propan-2-ylidenecyclohexan-1-one,2.8,17.1,0,1,0,C[C@@H]1CCC(=C(C)C)C(=O)C1,CC1CCC(=C(C)C)C(=O)C1,NZGWDASTMWDZIW-MRVPVSSYSA-N
+Fenchone,Fenchone,14525,C10H16O,152.23,"1,3,3-trimethylbicyclo[2.2.1]heptan-2-one",2.3,17.1,0,1,0,CC1(C2CCC(C2)(C1=O)C)C,CC1(C2CCC(C2)(C1=O)C)C,LHXDLQBQYFFVNW-UHFFFAOYSA-N
+Verbenone,Verbenone,65724,C10H14O,150.22,"(1R,5R)-4,6,6-trimethylbicyclo[3.1.1]hept-3-en-2-one",1.6,17.1,0,1,0,CC1=CC(=O)[C@@H]2C[C@H]1C2(C)C,CC1=CC(=O)C2CC1C2(C)C,DCSCXTJOXBUFGB-SFYZADRCSA-N
+Linalyl acetate,Linalyl acetate,8294,C12H20O2,196.29,"3,7-dimethylocta-1,6-dien-3-yl acetate",3.3,26.3,0,2,6,CC(=CCCC(C)(C=C)OC(=O)C)C,CC(=CCCC(C)(C=C)OC(=O)C)C,UWKAYLJWKGQEPM-UHFFFAOYSA-N
+Geranyl acetate,Geranyl acetate,1549026,C12H20O2,196.29,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",3.5,26.3,0,2,6,CC(=CCC/C(=C/COC(=O)C)/C)C,CC(=CCCC(=CCOC(=O)C)C)C,HIGQPQRQIQDZMP-DHZHZOJOSA-N
+Citronellyl acetate,Citronellyl acetate,9017,C12H22O2,198.30,"3,7-dimethyloct-6-enyl acetate",3.8,26.3,0,2,7,CC(CCC=C(C)C)CCOC(=O)C,CC(CCC=C(C)C)CCOC(=O)C,JOZKFWLRHCDGJA-UHFFFAOYSA-N
+Bornyl acetate,Bornyl acetate,93009,C12H20O2,196.29,"[(1S,2R,4S)-1,7,7-trimethyl-2-bicyclo[2.2.1]heptanyl] acetate",3.3,26.3,0,2,2,CC(=O)O[C@@H]1C[C@@H]2CC[C@]1(C2(C)C)C,CC(=O)OC1CC2CCC1(C2(C)C)C,KGEKLUUHTZCSIP-HOSYDEDBSA-N
+alpha-Terpinyl acetate,alpha-Terpinyl acetate,111037,C12H20O2,196.29,2-(4-methylcyclohex-3-en-1-yl)propan-2-yl acetate,2.4,26.3,0,2,3,CC1=CCC(CC1)C(C)(C)OC(=O)C,CC1=CCC(CC1)C(C)(C)OC(=O)C,IGODOXYLBBXFDW-UHFFFAOYSA-N
+Neryl acetate,Neryl acetate,1549025,C12H20O2,196.29,"[(2Z)-3,7-dimethylocta-2,6-dienyl] acetate",3.5,26.3,0,2,6,CC(=CCC/C(=C\COC(=O)C)/C)C,CC(=CCCC(=CCOC(=O)C)C)C,HIGQPQRQIQDZMP-FLIBITNWSA-N
+"1,8-Cineole","1,8-Cineole",2758,C10H18O,154.25,"1,3,3-trimethyl-2-oxabicyclo[2.2.2]octane",2.5,9.2,0,1,0,CC1(C2CCC(O1)(CC2)C)C,CC1(C2CCC(O1)(CC2)C)C,WEEGYLXZBRQIMU-UHFFFAOYSA-N
+Ascaridole,Ascaridole,10545,C10H16O2,168.23,"1-methyl-4-propan-2-yl-2,3-dioxabicyclo[2.2.2]oct-5-ene",2.3,18.5,0,2,1,CC(C)C12CCC(C=C1)(OO2)C,CC(C)C12CCC(C=C1)(OO2)C,MGYMHQJELJYRQS-UHFFFAOYSA-N
+Rose oxide,Rose oxide,27866,C10H18O,154.25,4-methyl-2-(2-methylprop-1-enyl)oxane,2.9,9.2,0,1,1,CC1CCOC(C1)C=C(C)C,CC1CCOC(C1)C=C(C)C,CZCBTSFUTPZVKJ-UHFFFAOYSA-N
+beta-Caryophyllene,beta-Caryophyllene,5281515,C15H24,204.35,"(1R,4E,9S)-4,11,11-trimethyl-8-methylidenebicyclo[7.2.0]undec-4-ene",4.4,0,0,0,0,C/C/1=C\CCC(=C)[C@H]2CC([C@@H]2CC1)(C)C,CC1=CCCC(=C)C2CC(C2CC1)(C)C,NPNUFJAVOOONJE-GFUGXAQUSA-N
+alpha-Humulene,alpha-Humulene,5281520,C15H24,204.35,"(1E,4E,8E)-2,6,6,9-tetramethylcycloundeca-1,4,8-triene",4.5,0,0,0,0,C/C/1=C\CC(/C=C/C/C(=C/CC1)/C)(C)C,CC1=CCC(C=CCC(=CCC1)C)(C)C,FAMPSKZZVDUYOS-HRGUGZIWSA-N
+Germacrene D,Germacrene D,5317570,C15H24,204.35,"(1E,6E,8S)-1-methyl-5-methylidene-8-propan-2-ylcyclodeca-1,6-diene",4.7,0,0,0,1,C/C/1=C\CCC(=C)/C=C/[C@@H](CC1)C(C)C,CC1=CCCC(=C)C=CC(CC1)C(C)C,GAIBLDCXCZKKJE-RXJOXMPGSA-N
+beta-Elemene,beta-Elemene,6918391,C15H24,204.35,"(1S,2S,4R)-1-ethenyl-1-methyl-2,4-bis(prop-1-en-2-yl)cyclohexane",6.1,0,0,0,3,CC(=C)[C@@H]1CC[C@@]([C@@H](C1)C(=C)C)(C)C=C,CC(=C)C1CCC(C(C1)C(=C)C)(C)C=C,OPFTUNCRGUEPRZ-QLFBSQMISA-N
+alpha-Copaene,alpha-Copaene,70678558,C15H24,204.35,"(1S,6S,7S,8S)-1,3-dimethyl-8-propan-2-yltricyclo[4.4.0.02,7]dec-3-ene",4.5,0,0,0,1,CC1=CC[C@H]2[C@H]3C1[C@]2(CC[C@H]3C(C)C)C,CC1=CCC2C3C1C2(CCC3C(C)C)C,VLXDPFLIRFYIME-XIQJJJERSA-N
+Valencene,Valencene,9855795,C15H24,204.35,"(3R,4aS,5R)-4a,5-dimethyl-3-prop-1-en-2-yl-2,3,4,5,6,7-hexahydro-1H-naphthalene",5.2,0,0,0,1,C[C@@H]1CCC=C2[C@]1(C[C@@H](CC2)C(=C)C)C,CC1CCC=C2C1(CC(CC2)C(=C)C)C,QEBNYNLSCGVZOH-NFAWXSAZSA-N
+beta-Bisabolene,beta-Bisabolene,10104370,C15H24,204.35,"(4S)-1-methyl-4-(6-methylhepta-1,5-dien-2-yl)cyclohexene",5.2,0,0,0,4,CC1=CC[C@H](CC1)C(=C)CCC=C(C)C,CC1=CCC(CC1)C(=C)CCC=C(C)C,XZRVRYFILCSYSP-OAHLLOKOSA-N
+delta-Cadinene,delta-Cadinene,441005,C15H24,204.35,"(1S,8aR)-4,7-dimethyl-1-propan-2-yl-1,2,3,5,6,8a-hexahydronaphthalene",3.8,0,0,0,1,CC1=C[C@H]2[C@@H](CCC(=C2CC1)C)C(C)C,CC1=CC2C(CCC(=C2CC1)C)C(C)C,FUCYIEXQVQJBKY-ZFWWWQNUSA-N
+Aromadendrene,Aromadendrene,11095734,C15H24,204.35,"(1aR,4aR,7R,7aR,7bS)-1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulene",4.7,0,0,0,0,C[C@@H]1CC[C@@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CCC2=C,CC1CCC2C1C3C(C3(C)C)CCC2=C,ITYNGVSTWVVPIC-XVIXHAIJSA-N
+Zingiberene,Zingiberene,92776,C15H24,204.35,"(5R)-2-methyl-5-[(2S)-6-methylhept-5-en-2-yl]cyclohexa-1,3-diene",5.2,0,0,0,4,CC1=CC[C@@H](C=C1)[C@@H](C)CCC=C(C)C,CC1=CCC(C=C1)C(C)CCC=C(C)C,KKOXKGNSUHTUBV-LSDHHAIUSA-N
+Caryophyllene oxide,Caryophyllene oxide,1742210,C15H24O,220.35,"(1R,4R,6R,10S)-4,12,12-trimethyl-9-methylidene-5-oxatricyclo[8.2.0.04,6]dodecane",3.6,12.5,0,1,0,C[C@@]12CC[C@@H]3[C@H](CC3(C)C)C(=C)CC[C@H]1O2,CC1(CC2C1CCC3(C(O3)CCC2=C)C)C,NVEQFIOZRFFVFW-RGCMKSIDSA-N
+Farnesol,Farnesol,445070,C15H26O,222.37,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol",4.8,20.2,1,1,7,CC(=CCC/C(=C/CC/C(=C/CO)/C)/C)C,CC(=CCCC(=CCCC(=CCO)C)C)C,CRDAMVZIKSXKFV-YFVJMOTDSA-N
+Nerolidol,Nerolidol,5284507,C15H26O,222.37,"(6E)-3,7,11-trimethyldodeca-1,6,10-trien-3-ol",4.6,20.2,1,1,7,CC(=CCC/C(=C/CCC(C)(C=C)O)/C)C,CC(=CCCC(=CCCC(C)(C=C)O)C)C,FQTLCLSUCSAZDY-SDNWHVSQSA-N
+Spathulenol,Spathulenol,92231,C15H24O,220.35,"(1aR,4aR,7S,7aR,7bR)-1,1,7-trimethyl-4-methylidene-1a,2,3,4a,5,6,7a,7b-octahydrocyclopropa[h]azulen-7-ol",3.1,20.2,1,1,0,C[C@@]1(CC[C@@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CCC2=C)O,CC1(C2C1C3C(CCC3(C)O)C(=C)CC2)C,FRMCCTDTYSRUBE-BGPZULBFSA-N
+Guaiol,Guaiol,227829,C15H26O,222.37,"2-[(3S,5R,8S)-3,8-dimethyl-1,2,3,4,5,6,7,8-octahydroazulen-5-yl]propan-2-ol",3.1,20.2,1,1,1,C[C@H]1CC[C@H](CC2=C1CC[C@@H]2C)C(C)(C)O,CC1CCC(CC2=C1CCC2C)C(C)(C)O,TWVJWDMOZJXUID-SDDRHHMPSA-N
+alpha-Bisabolol,alpha-Bisabolol,1549992,C15H26O,222.37,(2R)-6-methyl-2-[(1R)-4-methylcyclohex-3-en-1-yl]hept-5-en-2-ol,3.8,20.2,1,1,4,CC1=CC[C@@H](CC1)[C@@](C)(CCC=C(C)C)O,CC1=CCC(CC1)C(C)(CCC=C(C)C)O,RGZSQWQPBWRIAQ-LSDHHAIUSA-N
+Elemol,Elemol,92138,C15H26O,222.37,"2-[(1R,3S,4S)-4-ethenyl-4-methyl-3-prop-1-en-2-ylcyclohexyl]propan-2-ol",4.4,20.2,1,1,3,CC(=C)[C@@H]1C[C@@H](CC[C@@]1(C)C=C)C(C)(C)O,CC(=C)C1CC(CCC1(C)C=C)C(C)(C)O,GFJIQNADMLPFOW-VNHYZAJKSA-N
+Patchouli alcohol,Patchouli alcohol,10955174,C15H26O,222.37,"(1R,3R,6S,7S,8S)-2,2,6,8-tetramethyltricyclo[5.3.1.03,8]undecan-3-ol",4.1,20.2,1,1,0,C[C@H]1CC[C@@]2([C@@]3([C@H]1C[C@H](C2(C)C)CC3)C)O,CC1CCC2(C(C3CCC2(C1C3)C)(C)C)O,GGHMUJBZYLPWFD-CUZKYEQNSA-N
+o-Methoxycinnamaldehyde,,,,,,,,,,,,,
+p-Methoxycinnamaldehyde,p-Methoxycinnamaldehyde,641294,C10H10O2,162.18,(E)-3-(4-methoxyphenyl)prop-2-enal,1.8,26.3,0,2,3,COC1=CC=C(C=C1)/C=C/C=O,COC1=CC=C(C=C1)C=CC=O,AXCXHFKZHDEKTP-NSCUHMNNSA-N
+Cinnamyl acetate,Cinnamyl acetate,5282110,C11H12O2,176.21,[(E)-3-phenylprop-2-enyl] acetate,2.3,26.3,0,2,4,CC(=O)OC/C=C/C1=CC=CC=C1,CC(=O)OCC=CC1=CC=CC=C1,WJSDHUCWMSHDCR-VMPITWQZSA-N
+Coumarin,Coumarin,323,C9H6O2,146.14,chromen-2-one,1.4,26.3,0,2,0,C1=CC=C2C(=C1)C=CC(=O)O2,C1=CC=C2C(=C1)C=CC(=O)O2,ZYGHJZDHTFUPRJ-UHFFFAOYSA-N
+Apiole,Apiole,10659,C12H14O4,222.24,"4,7-dimethoxy-5-prop-2-enyl-1,3-benzodioxole",2.7,36.9,0,4,4,COC1=C2C(=C(C(=C1)CC=C)OC)OCO2,COC1=C2C(=C(C(=C1)CC=C)OC)OCO2,QQRSPHJOOXUALR-UHFFFAOYSA-N
+Myristicin,Myristicin,4276,C11H12O3,192.21,"4-methoxy-6-prop-2-enyl-1,3-benzodioxole",2.9,27.7,0,3,3,COC1=CC(=CC2=C1OCO2)CC=C,COC1=CC(=CC2=C1OCO2)CC=C,BNWJOHGLIBDBOB-UHFFFAOYSA-N
+Elemicin,Elemicin,10248,C12H16O3,208.25,"1,2,3-trimethoxy-5-prop-2-enylbenzene",2.5,27.7,0,3,5,COC1=CC(=CC(=C1OC)OC)CC=C,COC1=CC(=CC(=C1OC)OC)CC=C,BPLQKQKXWHCZSS-UHFFFAOYSA-N
+Thymoquinone,Thymoquinone,10281,C10H12O2,164.20,"2-methyl-5-propan-2-ylcyclohexa-2,5-diene-1,4-dione",2,34.1,0,2,1,CC1=CC(=O)C(=CC1=O)C(C)C,CC1=CC(=O)C(=CC1=O)C(C)C,KEQHJBNSCLWCAE-UHFFFAOYSA-N
+Chamazulene,Chamazulene,10719,C14H16,184.28,"7-ethyl-1,4-dimethylazulene",4.4,0,0,0,1,CCC1=CC2=C(C=CC2=C(C=C1)C)C,CCC1=CC2=C(C=CC2=C(C=C1)C)C,GXGJIOMUZAGVEH-UHFFFAOYSA-N
+Salicylaldehyde,Salicylaldehyde,6998,C7H6O2,122.12,2-hydroxybenzaldehyde,1.8,37.3,1,2,1,C1=CC=C(C(=C1)C=O)O,C1=CC=C(C(=C1)C=O)O,SMQUZDBALVYZAC-UHFFFAOYSA-N
+Benzaldehyde,Benzaldehyde,240,C7H6O,106.12,benzaldehyde,1.5,17.1,0,1,1,C1=CC=C(C=C1)C=O,C1=CC=C(C=C1)C=O,HUMNYLRZRPPJDN-UHFFFAOYSA-N
+Methyl salicylate,Methyl salicylate,4133,C8H8O3,152.15,methyl 2-hydroxybenzoate,2.3,46.5,1,3,2,COC(=O)C1=CC=CC=C1O,COC(=O)C1=CC=CC=C1O,OSWPMRLSEDHDFF-UHFFFAOYSA-N
+Vanillin,Vanillin,1183,C8H8O3,152.15,4-hydroxy-3-methoxybenzaldehyde,1.2,46.5,1,3,2,COC1=C(C=CC(=C1)C=O)O,COC1=C(C=CC(=C1)C=O)O,MWOOGOJBHIARFG-UHFFFAOYSA-N
+Guaiacol,Guaiacol,460,C7H8O2,124.14,2-methoxyphenol,1.3,29.5,1,2,1,COC1=CC=CC=C1O,COC1=CC=CC=C1O,LHGVFZTZFXWLCP-UHFFFAOYSA-N
+alpha-Farnesene,alpha-Farnesene,5281516,C15H24,204.35,"(3E,6E)-3,7,11-trimethyldodeca-1,3,6,10-tetraene",6.1,0,0,0,6,CC(=CCC/C(=C/C/C=C(\C)/C=C)/C)C,CC(=CCCC(=CCC=C(C)C=C)C)C,CXENHBSYCFFKJS-VDQVFBMKSA-N
+Longifolene,Longifolene,1796220,C15H24,204.35,"(1R,2S,7S,9S)-3,3,7-trimethyl-8-methylidenetricyclo[5.4.0.02,9]undecane",5.1,0,0,0,0,C[C@]12CCCC([C@@H]3[C@H]1CC[C@@H]3C2=C)(C)C,CC1(CCCC2(C3C1C(C2=C)CC3)C)C,PDSNLYSELAIEBU-GUIRCDHDSA-N
+alpha-Cedrene,alpha-Cedrene,6431015,C15H24,204.35,"(1S,2R,5S,7S)-2,6,6,8-tetramethyltricyclo[5.3.1.01,5]undec-8-ene",4.6,0,0,0,0,C[C@@H]1CC[C@@H]2[C@]13CC=C([C@H](C3)C2(C)C)C,CC1CCC2C13CC=C(C(C3)C2(C)C)C,IRAQOCYXUMOFCW-OSFYFWSMSA-N
+Viridiflorol,Viridiflorol,11996452,C15H26O,222.37,"(1aR,4S,4aS,7R,7aS,7bS)-1,1,4,7-tetramethyl-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulen-4-ol",3.7,20.2,1,1,0,C[C@@H]1CC[C@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CC[C@]2(C)O,CC1CCC2C1C3C(C3(C)C)CCC2(C)O,AYXPYQRXGNDJFU-IMNVLQEYSA-N
+Berberine,Berberine,2353,C20H18NO4+,336.4,"16,17-dimethoxy-5,7-dioxa-13-azoniapentacyclo[11.8.0.02,10.04,8.015,20]henicosa-1(13),2,4(8),9,14,16,18,20-octaene",3.6,40.8,0,4,2,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC,YBHILYKTIRIUTE-UHFFFAOYSA-N

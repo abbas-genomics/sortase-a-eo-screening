@@ -1,0 +1,101 @@
+rank,ligand_id,compound_name,best_affinity_kcal_mol
+1,71,delta-Cadinene,-6.807
+2,64,beta-Caryophyllene,-6.69
+3,100,Berberine,-6.528
+4,78,Guaiol,-6.365
+5,98,alpha-Cedrene,-6.29
+6,72,Aromadendrene,-6.282
+7,90,Chamazulene,-6.254
+8,66,Germacrene D,-6.223
+9,69,Valencene,-6.178
+10,74,Caryophyllene oxide,-6.17
+11,65,alpha-Humulene,-6.158
+12,79,alpha-Bisabolol,-6.145
+13,68,alpha-Copaene,-6.054
+14,70,beta-Bisabolene,-5.973
+15,67,beta-Elemene,-5.945
+16,81,Patchouli alcohol,-5.922
+17,77,Spathulenol,-5.916
+18,99,Viridiflorol,-5.873
+19,96,alpha-Farnesene,-5.872
+20,84,Cinnamyl acetate,-5.871
+21,97,Longifolene,-5.857
+22,75,Farnesol,-5.845
+23,87,Myristicin,-5.695
+24,80,Elemol,-5.694
+25,59,alpha-Terpinyl acetate,-5.666
+26,62,Ascaridole,-5.581
+27,76,Nerolidol,-5.567
+28,8,Isoeugenol,-5.539
+29,55,Linalyl acetate,-5.536
+30,12,Safrole,-5.527
+31,73,Zingiberene,-5.49
+32,88,Elemicin,-5.487
+33,52,Pulegone,-5.48
+34,14,Ethyl cinnamate,-5.472
+35,86,Apiole,-5.467
+36,6,Cinnamic acid,-5.442
+37,60,Neryl acetate,-5.426
+38,56,Geranyl acetate,-5.405
+39,13,Methyl cinnamate,-5.383
+40,38,Cuminyl alcohol,-5.383
+41,2,Carvacrol,-5.381
+42,89,Thymoquinone,-5.38
+43,40,Perillyl alcohol,-5.368
+44,47,Cuminaldehyde,-5.357
+45,46,Perillaldehyde,-5.353
+46,3,Eugenol,-5.325
+47,11,Chavicol,-5.31
+48,33,Menthol,-5.307
+49,21,alpha-Terpinene,-5.305
+50,31,alpha-Terpineol,-5.303
+51,23,p-Cymene,-5.295
+52,58,Bornyl acetate,-5.295
+53,51,Carvone,-5.288
+54,83,p-Methoxycinnamaldehyde,-5.285
+55,54,Verbenone,-5.279
+56,22,gamma-Terpinene,-5.269
+57,10,trans-Anethole,-5.267
+58,85,Coumarin,-5.264
+59,26,alpha-Phellandrene,-5.253
+60,32,Terpinen-4-ol,-5.25
+61,15,Limonene,-5.239
+62,18,Sabinene,-5.233
+63,57,Citronellyl acetate,-5.209
+64,7,Methyl eugenol,-5.201
+65,24,Terpinolene,-5.186
+66,49,Isomenthone,-5.181
+67,25,delta-3-Carene,-5.165
+68,1,Thymol,-5.157
+69,48,Menthone,-5.124
+70,93,Methyl salicylate,-5.108
+71,82,o-Methoxycinnamaldehyde,-5.077
+72,53,Fenchone,-5.07
+73,9,Estragole,-5.046
+74,5,Cinnamyl alcohol,-5.019
+75,39,Fenchol,-5.008
+76,27,beta-Ocimene,-5.005
+77,41,Verbenol,-4.993
+78,17,beta-Pinene,-4.964
+79,4,trans-Cinnamaldehyde,-4.959
+80,45,Citronellal,-4.956
+81,16,alpha-Pinene,-4.953
+82,43,Geranial,-4.941
+83,29,Geraniol,-4.906
+84,42,Citral,-4.893
+85,36,Nerol,-4.878
+86,30,Citronellol,-4.876
+87,50,Camphor,-4.84
+88,19,Camphene,-4.838
+89,28,Linalool,-4.83
+90,37,Lavandulol,-4.829
+91,61,"1,8-Cineole",-4.809
+92,44,Neral,-4.802
+93,63,Rose oxide,-4.769
+94,34,Borneol,-4.665
+95,94,Vanillin,-4.656
+96,91,Salicylaldehyde,-4.597
+97,92,Benzaldehyde,-4.549
+98,95,Guaiacol,-4.515
+99,35,Isoborneol,-4.512
+100,20,beta-Myrcene,-4.509
